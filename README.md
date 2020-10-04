@@ -2,8 +2,8 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].<br>
-![](https://img.shields.io/badge/School-YouCode-informational&logoColor=white&color=blue)
+My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].<br><br>
+![](https://img.shields.io/badge/School-YouCode-informational-blue)
 
 ## 🔧 Technologies & Tools
 
