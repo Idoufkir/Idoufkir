@@ -14,12 +14,12 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco.
 </a>
 
 <a href="https://github.com/Idoufkir/app-SupGest--Brief-gestion-d-inventaire-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idoufkir&repo=nodejs-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idoufkir&repo=app-SupGest--Brief-gestion-d-inventaire-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/Idoufkir/Projet-Fil-Rouge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idoufkir&repo=laravel-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idoufkir&repo=Projet-Fil-Rouge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
