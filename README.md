@@ -2,8 +2,9 @@
 
 <!--
 **Idoufkir/idoufkir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Header](https://raw.githubusercontent.com/Idoufkir/idoufkir/master/readme_header.png "Header")](https://twitter.com/MustafaIdoufkir)
 
-Here are some ideas to get you started:
+My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
