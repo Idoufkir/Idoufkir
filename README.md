@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Idoufkir/idoufkir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 [![Header](https://raw.githubusercontent.com/Idoufkir/idoufkir/master/readme_header.png "Header")](https://twitter.com/MustafaIdoufkir)
 
 My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco.
@@ -14,4 +13,3 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
