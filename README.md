@@ -3,7 +3,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].<br><br>
-![](https://img.shields.io/badge/learning at :-YouCode Safi-blue)
+![](https://img.shields.io/badge/learning at `:`-YouCode Safi-blue)
 
 ![logo-YCD](https://user-images.githubusercontent.com/57219106/95641006-acc71600-0a97-11eb-869b-002414f2f8b2.png)
 
