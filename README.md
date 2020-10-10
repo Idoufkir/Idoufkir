@@ -5,7 +5,7 @@
 My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].<br><br>
 ![](https://img.shields.io/badge/learning_at-YouCode_Safi-blue)
 <p align="center">
-![logo-YCD](https://user-images.githubusercontent.com/57219106/95641006-acc71600-0a97-11eb-869b-002414f2f8b2.png)
+  <img src="https://user-images.githubusercontent.com/57219106/95641006-acc71600-0a97-11eb-869b-002414f2f8b2.png">
 </p>
 ## 🔧 Technologies & Tools
 
