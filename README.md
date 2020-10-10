@@ -4,7 +4,9 @@
 
 My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].<br><br>
 ![](https://img.shields.io/badge/learning-at-blue)
-![logo_YCD](https://user-images.githubusercontent.com/57219106/95640831-98cee480-0a96-11eb-81d9-3ecefe57dc73.png){:height="50%" width="50%"}
+{:refdef: style="width: 10px; height: 10px"}
+![logo_YCD][(https://user-images.githubusercontent.com/57219106/95640831-98cee480-0a96-11eb-81d9-3ecefe57dc73.png)](./somelink)
+{: refdef}
 
 ## 🔧 Technologies & Tools
 
