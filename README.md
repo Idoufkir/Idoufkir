@@ -51,6 +51,7 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 
 <br>
 
+
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 
 <!-- links to social media icons -->
