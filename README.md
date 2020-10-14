@@ -33,6 +33,8 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 
 ## &#x1f4c8; [GitHub Stats](https://github.com/Idoufkir/Idoufkir/blob/main/README.md#-github-stats)
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Idoufkir)](https://github.com/Idoufkir/github-contribution-stats/)
+
 <a href="https://github.com/Idoufkir/Idoufkir">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Idoufkir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=41454a" alt="IDOUFKIR's GitHub Stats" />
 </a>
