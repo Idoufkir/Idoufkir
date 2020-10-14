@@ -43,7 +43,7 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 
 
 <a href="https://github.com/Idoufkir/Projet-Fil-Rouge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idoufkir&repo=Projet-Fil-Rouge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=ce5e77" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idoufkir&repo=Projet-Fil-Rouge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=267d6a" />
 </a>    
 
 <!-- links to social media icons -->
