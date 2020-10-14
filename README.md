@@ -5,14 +5,13 @@
 My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].<br><br>
 ![](https://img.shields.io/badge/learning_at-YouCode_Safi-blue)
 
-<p align="left"> <a href="https://twitter.com/mustafaidoufkir" target="blank"><img src="https://img.shields.io/twitter/follow/mustafaidoufkir?logo=twitter&style=for-the-badge" alt="mustafaidoufkir" /></a> </p>
-
 <p align="center">
   <a href="https://youcode.ma">
   <img src="https://user-images.githubusercontent.com/57219106/95641006-acc71600-0a97-11eb-869b-002414f2f8b2.png"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idoufkir&label=Profile%20views&color=0e75b6&style=flat" alt="idoufkir" /> </p>
+<p align="left"> <a href="https://twitter.com/mustafaidoufkir" target="blank"><img src="https://img.shields.io/twitter/follow/mustafaidoufkir?logo=twitter&style=for-the-badge" alt="mustafaidoufkir" /></a> </p>
   
 ## 🔧 [Technologies & Tools](https://github.com/Idoufkir/Idoufkir/blob/main/README.md#-technologies--tools)
 
