@@ -27,7 +27,7 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 ![](https://img.shields.io/badge/Tools-xampp-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-laragon-informational?style=flat&logo=laragon&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; [GitHub Stats](https://github.com/Idoufkir/Idoufkir/blob/main/README.md#-github-stats)
 
 <a href="https://github.com/Idoufkir/Idoufkir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idoufkir&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=41454a" />
