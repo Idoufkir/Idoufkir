@@ -27,6 +27,19 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 ![](https://img.shields.io/badge/Tools-xampp-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-laragon-informational?style=flat&logo=laragon&logoColor=white&color=2bbc8a)
 
+**Languages and Tools:**  
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+
+
 ## &#x1f4c8; [GitHub Stats](https://github.com/Idoufkir/Idoufkir/blob/main/README.md#-github-stats)
 
 <a href="https://github.com/Idoufkir/Idoufkir">
@@ -44,7 +57,7 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 <a href="https://github.com/Idoufkir/Projet-Fil-Rouge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idoufkir&repo=Projet-Fil-Rouge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=267d6a" />
 </a>    
-
+<br><br>
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 <!-- links to social media icons -->
 
