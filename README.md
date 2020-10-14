@@ -38,7 +38,7 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 </a>
 
 <a href="https://github.com/Idoufkir/app-SupGest--Brief-gestion-d-inventaire-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idoufkir&repo=app-SupGest--Brief-gestion-d-inventaire-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=5e77ce" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idoufkir&repo=app-SupGest--Brief-gestion-d-inventaire-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=26397d" />
 </a>
 
 
