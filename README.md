@@ -10,7 +10,7 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 </p>
 
 
-## 🔧 Technologies & Tools&text_color=3D54A3
+## 🔧 <h1 text_color=3D54A3>Technologies & Tools</h1>
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
