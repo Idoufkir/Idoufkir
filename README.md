@@ -9,7 +9,7 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
   <img src="https://user-images.githubusercontent.com/57219106/95641006-acc71600-0a97-11eb-869b-002414f2f8b2.png"></a>
 </p>
   
-## 🔧 [Technologies & Tools]
+## 🔧 Technologies & Tools
 
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
