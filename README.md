@@ -75,7 +75,6 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 
 [0]: https://twitter.com/
 [0]: https://twitter.com/
-[0]: https://twitter.com/
 [1]: https://twitter.com/MustafaIdoufkir
 [2]: https://github.com/Idoufkir
 [3]: https://www.linkedin.com/in/idoufkir
