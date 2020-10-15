@@ -12,7 +12,9 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
   <img src="https://user-images.githubusercontent.com/57219106/95641006-acc71600-0a97-11eb-869b-002414f2f8b2.png"></a>
 </p>
 
-<p align="center"> <a href="https://twitter.com/mustafaidoufkir" target="blank"><img src="https://img.shields.io/twitter/follow/mustafaidoufkir?logo=twitter&style=for-the-badge" alt="mustafaidoufkir" /></a> </p>
+<p align="center"> <a href="https://twitter.com/mustafaidoufkir" target="_blank"><img src="https://img.shields.io/twitter/follow/youcode18?logo=twitter&style=for-the-badge" alt="mustafaidoufkir" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/mustafaidoufkir" target="_blank"><img src="https://img.shields.io/twitter/follow/mustafaidoufkir?logo=twitter&style=for-the-badge" alt="mustafaidoufkir" /></a> </p>
   
 ## 🔧 [Technologies & Tools](https://github.com/Idoufkir/Idoufkir/blob/main/README.md#-technologies--tools)
 
