@@ -73,6 +73,7 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 
 <!-- links to your social media accounts -->
 
+[0]: https://twitter.com/MustafaIdoufkir
 [1]: https://twitter.com/MustafaIdoufkir
 [2]: https://github.com/Idoufkir
 [3]: https://www.linkedin.com/in/idoufkir
