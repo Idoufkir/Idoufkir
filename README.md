@@ -1,4 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/57219106/95013481-707b5c00-0638-11eb-92b8-0649623b17e0.png "Header")](https://twitter.com/MustafaIdoufkir)
+<!-- [![Header](https://user-images.githubusercontent.com/57219106/95013481-707b5c00-0638-11eb-92b8-0649623b17e0.png "Header")](https://twitter.com/MustafaIdoufkir) -->
 
 # [Hello, folks!](https://github.com/Idoufkir/Idoufkir/blob/main/README.md#hello-folks-) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idoufkir&label=Profile%20views&color=0e75b6&style=flat" alt="idoufkir" /> </p>
@@ -8,12 +8,8 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/midoufki?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
 
-![](https://img.shields.io/badge/learning_at-YouCode_Safi-blue)
+![](https://img.shields.io/badge/Pool_at-1337-blue)
 
-<p align="center">
-  <a href="https://youcode.ma">
-  <img src="https://user-images.githubusercontent.com/57219106/95641006-acc71600-0a97-11eb-869b-002414f2f8b2.png"></a>
-</p>
 
 <p align="center"> <a href="https://twitter.com/mustafaidoufkir" target="_blank"><img src="https://img.shields.io/twitter/follow/youcode18?logo=twitter&style=for-the-badge" alt="mustafaidoufkir" /></a> </p>
 
@@ -29,7 +25,6 @@ My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can f
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
