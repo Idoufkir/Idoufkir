@@ -5,7 +5,7 @@
 
 My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].<br><br>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/midoufki?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/midoufki?cursus=C%20Piscine)](https://github.com/Idoufkir)
 
 
 ![](https://img.shields.io/badge/Pool_at-1337-blue)
