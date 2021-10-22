@@ -6,7 +6,9 @@
 My name is Mustafa IDOUFKIR and I'm a web developer. I'm from Morocco. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].<br><br>
 
 
-<p align="center"> <a href="https://twitter.com/mustafaidoufkir" target="_blank"><img src="https://img.shields.io/twitter/follow/mustafaidoufkir?logo=twitter&style=for-the-badge" alt="mustafaidoufkir" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/mustafaidoufkir" target="_blank"><img src="https://img.shields.io/twitter/follow/mustafaidoufkir?logo=twitter&style=for-the-badge" alt="mustafaidoufkir" /></a> </p> -->
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/midoufki?cursus=C%20Piscine)](https://github.com/Idoufkir)
   
 ## 🔧 [Technologies & Tools](https://github.com/Idoufkir/Idoufkir/blob/main/README.md#-technologies--tools)
 
