@@ -1,8 +1,6 @@
-    # [Hi there, I'm Mustafa IDOUFKIR !](https://github.com/Idoufkir/Idoufkir/blob/main/README.md#hello-folks-) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Mustafa IDOUFKIR 👋
 
     <img align="center" src="https://user-images.githubusercontent.com/57219106/144024332-dd4c62f3-a45b-4716-92b3-4a4233ecef9e.gif"/>
-
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=idoufkir&label=Profile%20views&color=0e75b6&style=flat" alt="idoufkir" /> </p>
 
     ## I'm a Full Stack Web Developer
 
@@ -11,8 +9,9 @@
     - 💞️ Passionate about developing and improving user experience and maximizing user interface.
     - 📫 How to reach me ...mustafa.idoufkir@gmail.com.  
 
-<!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/midoufki?cursus=C%20Piscine)](https://github.com/Idoufkir) -->
+
     ---
+    <!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/midoufki?cursus=C%20Piscine)](https://github.com/Idoufkir) -->
 
     ### Let's Connect 🤝
 
@@ -81,3 +80,5 @@
 
     [instagram]: https://www.instagram.com/id__oufkir/
     [linkedin]: https://www.linkedin.com/in/idoufkir/
+
+    
