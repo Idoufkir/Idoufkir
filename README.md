@@ -58,10 +58,11 @@
    
    <br/>
    
-   <img src="https://img.icons8.com/office/16/000000/code.png"/>
-   <img src="https://img.icons8.com/office/16/000000/command-line.png"/>
-   <img src="https://img.icons8.com/office/16/000000/console.png"/>
-   <img src="https://img.icons8.com/office/16/000000/api-settings.png"/>
+   <img src="https://img.icons8.com/office/48/000000/api-settings.png"/>
+   <img src="https://img.icons8.com/office/48/000000/code.png"/>
+   <img src="https://img.icons8.com/office/48/000000/command-line.png"/>
+   <img src="https://img.icons8.com/office/48/000000/console.png"/>
+   
 
    </a>
 
