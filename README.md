@@ -36,7 +36,7 @@
    <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
    <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-   <img src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
+   <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
    <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 
 
