@@ -20,6 +20,7 @@
 
    <a href="https://www.linkedin.com/in/idoufkir/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
    <a href="https://github.com/Idoufkir" target="_blank"><img src="https://img.icons8.com/stickers/48/000000/github.png"/></a>
+   Let's view the raw HTML of the link:view-source:https://github.com/Idoufkir[<img src="https://img.icons8.com/stickers/48/000000/github.png"/>,window=_blank]
 
    ---
 
