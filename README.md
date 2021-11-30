@@ -84,5 +84,3 @@
 
    [instagram]: https://www.instagram.com/id__oufkir/
    [linkedin]: https://www.linkedin.com/in/idoufkir/
-
-    
