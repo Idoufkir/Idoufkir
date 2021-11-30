@@ -2,6 +2,8 @@
 
    <img align="center" src="https://user-images.githubusercontent.com/57219106/144024332-dd4c62f3-a45b-4716-92b3-4a4233ecef9e.gif"/>
 
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=idoufkir&label=Profile%20views&color=0e75b6&style=flat" alt="idoufkir" /> </p>
+   
    ## I'm a Full Stack Web Developer
 
    - 📚 I do my certificate from <a href="https://www.youcode.ma" target="_blank">YouCode</a>.
