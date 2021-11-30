@@ -11,7 +11,7 @@
    - 💞️ Passionate about developing and improving user experience and maximizing user interface.
    - 📫 How to reach me ...mustafa.idoufkir@gmail.com.  
 
-[go](http://stackoverflow.com){:target="_blank"}
+[go](http://stackoverflow.com)[:target="_blank"]
    ---
     
    <!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/midoufki?cursus=C%20Piscine)](https://github.com/Idoufkir) -->
