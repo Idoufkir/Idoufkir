@@ -79,7 +79,7 @@
    [![Idoufkir's github activity graph](https://activity-graph.herokuapp.com/graph?username=Idoufkir&theme=react-dark)](https://github.com/idoufkir/github-readme-activity-graph)
 
 
-   - <img src="https://img.icons8.com/color-glass/100/000000/domain.png"/> Welcome to my website <a href="https://www.idoufkir.me" target="_blank">Idoufkir.me</a>.
+   - <img src="https://img.icons8.com/color-glass/100/000000/domain.png"/> Welcome to my website <a href="https://www.idoufkir.me" target="_blank">Idoufkir.me</a>
    ![ThanksYou](https://img.shields.io/badge🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 
    [instagram]: https://www.instagram.com/id__oufkir/
