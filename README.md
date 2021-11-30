@@ -45,12 +45,12 @@
     
    <img src="https://img.icons8.com/color/48/000000/git.png"/>
    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
-   <img src="https://img.icons8.com/ios/50/000000/jquery.png"/>
+   <img src="https://img.icons8.com/color/48/000000/json--v1.png"/>
    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
    <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-   <img src="https://img.icons8.com/plasticine/100/000000/sketch.png"/>
    <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
    <img src="https://img.icons8.com/color/48/000000/woocommerce.png"/>
    <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
