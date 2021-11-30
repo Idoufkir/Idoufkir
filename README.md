@@ -10,7 +10,7 @@
    - 📫 How to reach me ...mustafa.idoufkir@gmail.com.  
 
 
-    ---
+   ---
     
    <!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/midoufki?cursus=C%20Piscine)](https://github.com/Idoufkir) -->
 
