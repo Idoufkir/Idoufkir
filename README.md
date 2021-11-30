@@ -45,7 +45,6 @@
     
    <img src="https://img.icons8.com/color/48/000000/git.png"/>
    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
-   <img src="https://img.icons8.com/color/48/000000/json--v1.png"/>
    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
    <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
@@ -55,6 +54,14 @@
    <img src="https://img.icons8.com/color/48/000000/woocommerce.png"/>
    <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
    <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+   
+   
+   <br/>
+   
+   <img src="https://img.icons8.com/office/16/000000/code.png"/>
+   <img src="https://img.icons8.com/office/16/000000/command-line.png"/>
+   <img src="https://img.icons8.com/office/16/000000/console.png"/>
+   <img src="https://img.icons8.com/office/16/000000/api-settings.png"/>
 
    </a>
 
