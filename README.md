@@ -11,11 +11,9 @@
    - 💞️ Passionate about developing and improving user experience and maximizing user interface.
    - 📫 How to reach me ... mustafa.idoufkir@gmail.com
 
-   <a href="http://example.com/" target="_blank">Hello, world!</a>
    ---
     
    <!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/midoufki?cursus=C%20Piscine)](https://github.com/Idoufkir) -->
-   [Hello, world!](http://example.com/)[:target="_blank"]
 
    ### Let's Connect 🤝
 
