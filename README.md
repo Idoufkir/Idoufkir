@@ -11,12 +11,13 @@
 
 
     ---
-    <!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/midoufki?cursus=C%20Piscine)](https://github.com/Idoufkir) -->
+    
+   <!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/midoufki?cursus=C%20Piscine)](https://github.com/Idoufkir) -->
 
    ### Let's Connect 🤝
 
    <a href="https://www.linkedin.com/in/idoufkir/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-   <a href="https://github.com/Idoufkir" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
+   <a href="https://github.com/Idoufkir" target="_blank"><img src="https://img.icons8.com/stickers/48/000000/github.png"/></a>
 
    ---
 
