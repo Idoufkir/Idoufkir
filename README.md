@@ -6,7 +6,6 @@
    
    ## I'm a Full Stack Web Developer
 
-   - 📚 I do my certificate from <a href="https://www.youcode.ma" target="_blank">YouCode</a>.
    - 💻 I love doing web development and I'm exploring frontend and backend development.
    - 💞️ Passionate about developing and improving user experience and maximizing user interface.
    - 📫 How to reach me ... mustafa.idoufkir@gmail.com
