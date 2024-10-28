@@ -54,4 +54,4 @@ Web Developer specializing in full-stack e-commerce applications and mobile mark
 
 ---
 
-Thank you for visiting my profile! 😊 Happy Coding!
+![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
