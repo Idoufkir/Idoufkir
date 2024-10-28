@@ -55,7 +55,7 @@ Web Developer specializing in full-stack e-commerce applications and mobile mark
 ---
 
 <div align="right">
-  <h6>🙏 We’re going to make this work, #007 🚀</h6>
+  <h6>🙏 We going to make this work 🚀 #007</h6>
 </div>
 
 
