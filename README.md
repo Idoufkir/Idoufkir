@@ -1,8 +1,7 @@
 # Mustafa Idoufkir - Full Stack Developer
 
 [![Profile Visitor](https://komarev.com/ghpvc/?username=idoufkir&label=Visitors&color=0e75b6&style=flat)](https://github.com/idoufkir)
-[![wakatime](https://wakatime.com/badge/user/0020ec22-10e4-4916-b7e6-f3add8ca5905/project/e405d585-a987-4b20-add6-0e5bbc15b1c9.svg)](https://wakatime.com/badge/user/0020ec22-10e4-4916-b7e6-f3add8ca5905/project/e405d585-a987-4b20-add6-0e5bbc15b1c9)
-
+[![wakatime](https://wakatime.com/badge/user/0020ec22-10e4-4916-b7e6-f3add8ca5905.svg)](https://wakatime.com/@0020ec22-10e4-4916-b7e6-f3add8ca5905)
 <img align="center" src="https://user-images.githubusercontent.com/57219106/144024332-dd4c62f3-a45b-4716-92b3-4a4233ecef9e.gif"/>
 
 ## About Me
