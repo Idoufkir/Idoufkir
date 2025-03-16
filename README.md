@@ -9,7 +9,7 @@
 Web Developer specializing in full-stack e-commerce applications and mobile marketplaces. Experienced in Agile/Scrum methodologies, I have successfully contributed to projects across various industries, including finance and tourism. My expertise encompasses project management, API development, and the creation of client-focused applications.
 
 - 📧 Contact: [mustafa.idoufkir@gmail.com](mailto:mustafa.idoufkir@gmail.com)
-- 💼 [Resume](https://drive.google.com/file/d/1bxBEFIFmUd5n2rVqDoQkaLwPi__aDo6A/view)
+- 💼 [Resume](https://drive.google.com/file/d/1c_EqPhzqWjR9A5E9DNvvGmrEET8oOeQD)
 
 ## Skills & Technologies
 
